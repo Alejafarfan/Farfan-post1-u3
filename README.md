@@ -42,15 +42,11 @@ La página se visualiza correctamente en el navegador **Google Chrome** en difer
 
 ## Captura de pantalla
 
-A continuación se muestra una captura del resultado final de la página:
+A continuación se muestra captura del resultado final de la página:
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/670e7a6e-384a-4c8a-ac39-13bfabe9b571" />
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/03d498dd-4054-41bb-899f-2c9325dd73f4" />
-
-<img width="468" height="973" alt="image" src="https://github.com/user-attachments/assets/eeac1ef0-f54c-4e66-bf38-e6956475a11d" /> <img width="467" height="971" alt="image" src="https://github.com/user-attachments/assets/edbff128-b6ad-4d5b-9fc6-99495535a977" />
-
-
 
 ## Tecnologías utilizadas
 * HTML5
